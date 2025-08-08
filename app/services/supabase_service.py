@@ -3,7 +3,7 @@ from supabase import create_client, Client
 import os
 from dotenv import load_dotenv
 from openai import OpenAI
-from google import g
+from google import genai
 from typing import Optional
 from app.models.schemas import User, OrderRequest
 
