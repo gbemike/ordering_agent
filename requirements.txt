@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+requests
+pinecone
+supabase
+langchain
+pydantic
+langchain-openai
+langchain-core
+langchain_community
+docx2txt
+python-multipart
+fastapi
+uvicorn
